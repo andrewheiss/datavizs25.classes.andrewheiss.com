@@ -1,6 +1,6 @@
 ---
 title: "Introduction to R and the tidyverse"
-date: "2025-01-20"
+date: "2025-06-16"
 ---
 
 ```{r setup, include=FALSE}

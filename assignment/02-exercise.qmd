@@ -1,6 +1,6 @@
 ---
 title: "Graphic design"
-date: "2025-01-27"
+date: "2025-06-16"
 ---
 
 ## Task 1: Weekly check-in
