@@ -2,10 +2,10 @@
 
 <!-- README.md is generated from README.qmd. Please edit that file -->
 
-# Data Visualization with R <a href='https://datavizsp25.classes.andrewheiss.com/'><img src='files/favicon-512.png' align="right" height="139" /></a>
+# Data Visualization with R <a href='https://datavizs25.classes.andrewheiss.com/'><img src='files/favicon-512.png' align="right" height="139" /></a>
 
-[PMAP 8551/4551 • Spring
-2025](https://datavizsp25.classes.andrewheiss.com/)  
+[PMAP 8551/4551 • Summer
+2025](https://datavizs25.classes.andrewheiss.com/)  
 [Andrew Heiss](https://www.andrewheiss.com/) • Andrew Young School of
 Policy Studies • Georgia State University
 
@@ -25,7 +25,7 @@ Policy Studies • Georgia State University
     [Quarto](https://quarto.org/) installation embedded in it.
     Otherwise, download and install [Quarto](https://quarto.org/)
     separately.
-2.  Open `datavizsp25.Rproj` to open an [RStudio
+2.  Open `datavizs25.Rproj` to open an [RStudio
     Project](https://r4ds.hadley.nz/workflow-scripts.html#projects).
 3.  If it’s not installed already, R *should* try to install the [{renv}
     package](https://rstudio.github.io/renv/) when you open the RStudio

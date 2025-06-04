@@ -1,5 +1,5 @@
 REMOTE_HOST="ath-cloud"
-REMOTE_DIR="~/sites/classes/datavizsp25.classes/public"
+REMOTE_DIR="~/sites/classes/datavizs25.classes/public"
 REMOTE_DEST=$REMOTE_HOST:$REMOTE_DIR
 
 echo "Uploading new changes to remote server..."

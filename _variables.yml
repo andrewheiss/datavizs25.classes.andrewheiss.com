@@ -15,15 +15,15 @@ instructor:
 
 course:
   number: "PMAP 8551/4551"
-  semester: "Spring 2025"
+  semester: "Summer 2025"
   days: "Any day"
   time: "Asynchronous"
   location: "Anywhere"
-  dates: "January 13–May 4, 2025"
-  github: "https://www.github.com/andrewheiss/datavizsp25.classes.andrewheiss.com"
-  url: "https://datavizsp25.classes.andrewheiss.com"
+  dates: "June 9–August 4, 2025"
+  github: "https://www.github.com/andrewheiss/datavizs25.classes.andrewheiss.com"
+  url: "https://datavizs25.classes.andrewheiss.com"
   copyright_year: "2025"
-  slack: "https://gsudatavizsp25.slack.com"
+  slack: "https://gsudatavizs25.slack.com"
 
 university:
   name: Georgia State University
