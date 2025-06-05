@@ -122,6 +122,16 @@ Here's how I can tell that that ↑ code comes from an LLM:
 - Using `print()` to show the created object
 :::
 
+::: {.callout-note}
+### BUT…
+
+However, nothing in that ChatGPT code ↑ is actually wrong! It is 100% correct and is totally normal. If there are missing values in the data, you *should* use `na.rm` in `mean()`, otherwise things mess up. The `%>%` pipe is fine ([see this for more about that](/resource/pipes.qmd)). Adding `.groups = "drop"` inside `summarize()` is valid too—it prevents extra messages about leftover groupings ([see this for more about that](https://www.andrewheiss.com/blog/2024/04/04/group_by-summarize-ungroup-animations/#leftover-groupings-and-ungroup)). Adding comments about the different steps is good and normal and should happen too!
+
+The issue with this code is that the vibes are slightly off. It's using features that you've never run into if you're writing R code for the first time. It's using extra settings that you wouldn't use in this particular circumstance (e.g. there's technically no need to use `.groups = "drop"` here because you're only grouping by one column, not two, so it automatically drops the group). Someone who already knows R will see that output and say "Yeah, that's all fine, but I wouldn't do it exactly that way"; brand new R users don't know why the code looks like that and they just hope it works.
+
+It's like when people first discover the thesaurus. You've all seen overwrought, over-thesuarized sentences where the word choice is *slightly* off. The words can all be grammatically correct, but they can *feel* off in context.
+:::
+
 In general, **don't ever just copy/paste from ChatGPT and hope it runs.** If you do use these tools, use them to ask for explanations. Make sure you know what every line of code is doing. For example, if it spits out `summarize(average_cty = mean(cty, na.rm = TRUE), .groups = "drop")`, and you don't know what those `na.rm = TRUE` or `.groups = "drop"` things mean, look at the help page for `mean()` and see what `na.rm` actually does so you can decide if you really need to use it or not, or ask the LLM why it included it.
 
 **I will call out code that looks vibe-coded in your assignments. Please don't do it.**
