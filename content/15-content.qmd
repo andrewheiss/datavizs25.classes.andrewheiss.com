@@ -20,8 +20,15 @@ slide_details <- tibble::tribble(
 
 ## Readings
 
+### Required readings
+
+Foundational principles:
+
 - {{< fa book >}} Chapter 12 in *The Truthful Art* [@Cairo:2016]
 - {{< fa book >}} [Chapter 26](https://clauswilke.com/dataviz/telling-a-story.html) in *Fundamentals of Data Visualization* [@Wilke:2018]
+
+Storytelling:
+
 - {{< fa file-pdf >}} Martin Krzywinski and Alberto Cairo, ["Storytelling"](https://www.nature.com/articles/nmeth.2571.pdf) [@KrzywinskiCairo:2013]
 - {{< fa brands youtube >}} Ben Wellington, ["Making data mean more through storytelling"](https://www.youtube.com/watch?v=6xsvGYIxJok)
 - {{< fa brands vimeo >}} Jonathan Schwabish, ["Better Data Communication,"](https://vimeo.com/230757062) National Bureau of Economic Research

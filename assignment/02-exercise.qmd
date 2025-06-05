@@ -3,9 +3,9 @@ title: "Graphic design"
 date: "2025-06-16"
 ---
 
-## Task 1: Weekly check-in
+## Task 1: Session check-in
 
-Write your [weekly check-in](/assignment/weekly-check-in.qmd) for the week's readings.
+Write your [session check-in](/assignment/session-check-in.qmd) for the session's readings.
 
 
 ## Task 2: CRAP critique

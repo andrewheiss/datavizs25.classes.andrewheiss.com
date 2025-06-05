@@ -9,9 +9,9 @@ You will get the most of out this class if you:
 
 Each type of assignment in this class helps with one of these strategies.
 
-## Weekly check-in
+## Session check-in
 
-Each week you'll submit a list of three most interesting and three most unclear things from the readings. ([See the complete instructions and details here](/assignment/weekly-check-in.qmd)).
+Each session you'll submit a list of three most interesting and three most unclear things from the readings. ([See the complete instructions and details here](/assignment/session-check-in.qmd)).
 
 
 ## Exercises
@@ -28,7 +28,7 @@ Note that this is also essentially a pass/fail system. I'm not grading your codi
 
 You may (and should!) work together on the exercises, but you must turn in your own answers.
 
-You will turn these exercises in using iCollege. You will include your weekly check-in in the first part of the document—the rest will be your exercise tasks.
+You will turn these exercises in using iCollege. You will include your session check-in in the first part of the document—the rest will be your exercise tasks.
 
 
 ## Mini projects

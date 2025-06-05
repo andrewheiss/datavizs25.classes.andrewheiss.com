@@ -11,7 +11,7 @@ format:
 
 ---
 
-# Task 1: Weekly check-in
+# Task 1: Session check-in
 
 Three interesting or exciting things:
 

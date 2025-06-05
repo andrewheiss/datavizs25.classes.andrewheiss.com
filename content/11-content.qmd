@@ -31,27 +31,34 @@ Since recording these materials, there have been a few big changes in the world 
 
 As a result, there are two important things to note while you watch the lectures:
 
-1. The "Making interactive graphs" section of the slides and videos refers to the {flexdashboard} package. Disregard that and mentally replace mentions of {flexdashboard} with "Quarto Dashboards".
-2. The "Sharing content" section of the slides and videos refers to an online service called RPubs. Disregard all of that. I've omitted that video here.
+1. The "Making interactive graphs" section of the slides and videos refers to the {flexdashboard} package. **Disregard that** and mentally replace mentions of {flexdashboard} with "Quarto Dashboards".
+2. The "Sharing content" section of the slides and videos refers to an online service called RPubs. **Disregard all of that.** I've omitted that video here.
 :::
 
+### Required readings
 
+Dashboards:
 
-### Explorable explanations
+- {{< fa arrow-up-right-from-square >}} Stephanie Evergreen, ["How a Dashboard Changes the Conversation"](https://stephanieevergreen.com/dashboard-conversation/)
+- {{< fa arrow-up-right-from-square >}} Stephanie Evergreen, ["The Problem with Dashboards (and a Solution)"](https://stephanieevergreen.com/problem-with-dashboards/)
+
+Explorable explanations: 
+
+- {{< fa trophy >}} Look at [some of the explorable explorations here](https://explorabl.es/)
+
+### Readings you should glance through as examples
+
+Dashboards:
+
+- {{< fa arrow-up-right-from-square >}} Look at some of these examples of [Quarto dashboards](https://quarto.org/docs/gallery/#dashboards) and [Shiny apps](https://shiny.posit.co/r/gallery/)
+- {{< fa arrow-up-right-from-square >}} Stephen Few, ["2012 Perceptual Edge Dashboard Design Competition: A Solution of My Own"](https://www.stephen-few.com/blog/2013/01/08/2012-perceptual-edge-dashboard-design-competition-a-solution-of-my-own/)
+- {{< fa file-pdf >}} Skim through Stephen Few's [presentation on Information Dashboard Design](http://blogs.ischool.berkeley.edu/i247s12/files/2012/01/Dashboard-Design-Overview-Presentation.pdf)
+
+Explorable explanations: 
 
 - {{< fa trophy >}} Marcel Salathé and Nicky Case, ["What Happens Next: COVID-19 Futures, Explained with Playable Situations"](https://ncase.me/covid-19/)
 - {{< fa arrow-up-right-from-square >}} Brett Victor, ["Explorable Explanations"](http://worrydream.com/ExplorableExplanations/)
-- {{< fa trophy >}} Look at [some of the explorable explorations here](https://explorabl.es/)
 - {{< fa arrow-up-right-from-square >}} Dragicevic, Jansen, Sarma, Kay, and Chevalier, ["Explorable Multiverse Analyses"](https://explorablemultiverse.github.io/). Use Chrome, open Example 1, scroll to page 2, and click on some of the blue text to change the results of the paper *within the paper itself*. This is magical. Quarto can't quite get *this* interactive in real-time, but you can knit different versions of a document with slightly different parameters and options.
-
-### Dashboards
-
-- {{< fa arrow-up-right-from-square >}} Look at some of these examples of [Quarto dashboards](https://quarto.org/docs/gallery/#dashboards) and [Shiny apps](https://shiny.posit.co/r/gallery/)
-- {{< fa arrow-up-right-from-square >}} Stephanie Evergreen, ["How a Dashboard Changes the Conversation"](https://stephanieevergreen.com/dashboard-conversation/)
-- {{< fa arrow-up-right-from-square >}} Stephanie Evergreen, ["The Problem with Dashboards (and a Solution)"](https://stephanieevergreen.com/problem-with-dashboards/)
-- {{< fa arrow-up-right-from-square >}} Stephen Few, ["2012 Perceptual Edge Dashboard Design Competition: A Solution of My Own"](https://www.stephen-few.com/blog/2013/01/08/2012-perceptual-edge-dashboard-design-competition-a-solution-of-my-own/)
-- {{< fa file-pdf >}} Skim through Stephen Few's [presentation on Information Dashboard Design](http://blogs.ischool.berkeley.edu/i247s12/files/2012/01/Dashboard-Design-Overview-Presentation.pdf)
-- {{< fa brands google >}} Google "dashboard design" and skim through some of the thousands of articles about what makes a good (and bad) dashboard
 
 
 ## Slides

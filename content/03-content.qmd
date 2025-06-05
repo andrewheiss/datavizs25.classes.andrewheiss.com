@@ -22,14 +22,15 @@ slide_details <- tibble::tribble(
 
 ## Readings
 
+### Required readings
+
 - {{< fa brands youtube >}} Hans Rosling, ["200 Countries, 200 Years, 4 Minutes"](https://www.youtube.com/watch?v=jbkSRLYSojo)
 - {{< fa book >}} [Chapter 2](https://clauswilke.com/dataviz/aesthetic-mapping.html) in *Fundamentals of Data Visualization* [@Wilke:2018]
 - {{< fa book >}} [Chapter 3](http://socviz.co/makeplot.html) in *Data Visualization* [@Healy:2018]
 
+### Readings you should glance through and use as resources
 
-## Other resources
-
-[This tutorial by Cédric Scherer](https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) is an excellent demonstration of the grammar of graphics and the sequential nature of building up a plot layer-by-layer.
+- {{< fa arrow-up-right-from-square >}} [This tutorial by Cédric Scherer](https://www.cedricscherer.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/) is an excellent demonstration of the grammar of graphics and the sequential nature of building up a plot layer-by-layer.
 
 
 ## Slides

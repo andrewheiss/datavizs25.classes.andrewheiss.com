@@ -173,7 +173,7 @@ website:
             - assignment/index.qmd
         - section: "General assignments"
           contents:
-            - assignment/weekly-check-in.qmd
+            - assignment/session-check-in.qmd
             - text: "#TidyTuesday"
               file: assignment/tidy-tuesday.qmd
         - section: "Projects"

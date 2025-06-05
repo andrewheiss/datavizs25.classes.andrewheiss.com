@@ -20,10 +20,17 @@ slide_details <- tibble::tribble(
 
 ## Readings
 
+### Required readings
+
+Foundational principles:
+
 - {{< fa book >}} [Chapter 7](https://clauswilke.com/dataviz/histograms-density-plots.html) in *Fundamentals of Data Visualization* [@Wilke:2018]
 - {{< fa book >}} Chapters 4, 7, and 11 in *The Truthful Art* [@Cairo:2016]
 - {{< fa arrow-up-right-from-square >}} [Why It's So Hard for Us to Visualize Uncertainty](https://hbr.org/2016/11/why-its-so-hard-for-us-to-visualize-uncertainty)
 - {{< fa arrow-up-right-from-square >}} Nick Desbarats, ["I’ve Stopped Using Box Plots. Should You?"](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
+
+### Readings you should glance through as examples
+
 - {{< fa arrow-up-right-from-square >}} [Communicating Uncertainty When Lives Are on the Line](https://eagereyes.org/blog/2017/communicating-uncertainty-when-lives-are-on-the-line)
 - {{< fa arrow-up-right-from-square >}} Cédric Scherer, ["Visualizing distributions with raincloud plots with ggplot2"](https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-with-ggplot2/)
 

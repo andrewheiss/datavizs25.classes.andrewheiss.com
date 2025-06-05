@@ -50,7 +50,7 @@ Before starting this exercise, make sure you complete everything at [the lesson 
    cars <- read_csv("data/cars.csv")
    ```
    
-   # Weekly check-in
+   # Session check-in
    
    Three interesting or exciting things:
 
@@ -96,7 +96,7 @@ Before starting this exercise, make sure you complete everything at [the lesson 
 
 ## Task 2: Work with R
 
-1. Add your [weekly check-in](/assignment/weekly-check-in.qmd) to the appropriate place in the Quarto file. You can type directly in RStudio if you want (though there's no spell checker), or you can type it in Word or Google Docs and then paste it into RStudio.
+1. Add your [session check-in](/assignment/session-check-in.qmd) to the appropriate place in the Quarto file. You can type directly in RStudio if you want (though there's no spell checker), or you can type it in Word or Google Docs and then paste it into RStudio.
 
 2. Remove the text that says "PUT CHUNK HERE" and insert a new R code chunk. Either type <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>i</kbd> on Windows, or <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>i</kbd> on macOS, or use the "Insert Chunk" menu:
 
