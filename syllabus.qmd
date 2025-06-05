@@ -35,7 +35,7 @@ knitr::opts_chunk$set(fig.align = "center")
 ### Contacting me
 
 - [{{< fa calendar-check >}}]{.fa-li} [Schedule an appointment]({{< var instructor.appointment_url >}})
-- [{{< fa brands slack >}}]{.fa-li} [Slack]({{< var course.slack >}})
+- [{{< fa brands discord >}}]{.fa-li} [Discord]({{< var course.discord >}})
 :::
 
 ::::
@@ -94,8 +94,6 @@ We'll rely heavily on these books, which are all available online (**for free!**
 
 There will occasionally be additional articles and videos to read and watch. When this happens, links to these other resources will be included on the content page for that session.
 
-I also highly recommend subscribing to the [R Weekly newsletter](https://rweekly.org/). This e-mail is sent every Monday and is full of helpful tutorials about how to do stuff with R.
-
 ### R and RStudio
 
 You will do all of your analysis with the open source (and free!) programming language [R](https://cran.r-project.org/). You will use [RStudio](https://www.rstudio.com/) as the main program to access R. **Think of R as an engine and RStudio as a car dashboard**—R handles all the calculations produces the actual statistics and graphical output, while RStudio provides a nice interface for running R code.
@@ -110,15 +108,24 @@ You can [find instructions for installing R, RStudio, and all the tidyverse pack
 
 Data science and statistical programming can be difficult. Computers are stupid and little errors in your code can cause hours of headache (even if you've been doing this stuff for years!).
 
-Fortunately there are tons of online resources to help you with this. Two of the most important are [StackOverflow](https://stackoverflow.com/) (a Q&A site with hundreds of thousands of answers to all sorts of programming questions) and [Posit Community](https://community.rstudio.com/) (a forum specifically designed for people using RStudio and the tidyverse (i.e. you)).
+Fortunately there are tons of online resources to help you with this. 
+
+#### Class community on Discord
+
+We have a class Discord server where anyone in the class can ask questions and anyone can answer. The invitation to the server is on iCollege since that's a password protected place and I want the server to be limited to only students in the class.
+
+**I will monitor Discord regularly and will respond quickly.** (It's one of the rare Discord servers where I actually have notifications enabled!) Ask questions about the readings, exercises, and mini projects. You'll likely have similar questions as your peers, and you'll likely be able to answer other peoples' questions too.
+
+#### Online communities
 
 If you use Bluesky or Mastodon or Threads or LinkedIn, post R-related questions and content with `#rstats`. The R community is exceptionally generous and helpful.
 
-Searching for help with R on Google can sometimes be tricky because the program name is, um, a single letter. Google is generally smart enough to figure out what you mean when you search for "r scatterplot", but if it does struggle, try searching for "rstats" instead (e.g. "rstats scatterplot"). Also, since most of your R work will deal with {ggplot2}, it's often easier to just search for that instead of the letter "r" (e.g. "ggplot scatterplot"). 
+Searching for help with R on Google can sometimes be tricky because the program name is, um, a single letter. Google is generally smart enough to figure out what you mean when you search for "r scatterplot", but if it does struggle, try searching for "rstats" instead (e.g. "rstats scatterplot"). Also, since most of your R work will deal with {ggplot2}, it's often easier to just search for that instead of the letter "r" (e.g. "ggplot scatterplot").
 
-Additionally, we have a class chatroom at [Slack](https://gsudatavizs25.slack.com) where anyone in the class can ask questions and anyone can answer. **I will monitor Slack regularly and will respond quickly.** (It's one of the rare Slack workspaces where I actually have notifications enabled!) Ask questions about the readings, exercises, and mini projects. You'll likely have similar questions as your peers, and you'll likely be able to answer other peoples' questions too.
+You can also check out the [Posit Community](https://community.rstudio.com/), a forum specifically designed for people using RStudio and the tidyverse (i.e. you).
 
-## AI, LLMs, and BS
+
+## AI, LLMs, BS, and vibe coding
 
 I *highly recommend* **not** using ChatGPT or similar large language models (LLMs) in this class. 
 
@@ -130,7 +137,7 @@ By definition, LLMs and other AI tools cannot produce truth (or even lies). They
 
 [Please read this](/resource/ai-bs.qmd) to better understand how LLMs circumvent the writing and learning process.
 
-**Do not replace the important work of writing with AI BS slop.** The point of writing is to help crystalize your thinking. Chugging out words that make it look like you read and understood the content will not help you learn.
+**Do not replace the important work of writing with AI BS slop.** The point of writing is to help crystalize your thinking. Chugging out words that make it look like you read and understood the content will not help you learn. Chugging out code that you hope works is [vibe coding](https://www.npr.org/2025/05/30/nx-s1-5413387/vibe-coding-ai-software-development) and it will not help you learn.
 
 A key theme of the class is the search for truth. Generating useless content will not help with that.
 
@@ -173,13 +180,9 @@ Please watch this video: <small>(*this is not me, btw—this is a different Andr
 
 Student hours are set times dedicated to all of you (most professors call these "office hours"; I don't^[There's fairly widespread misunderstanding about what office hours actually are! [Many students often think that they are the times I *shouldn't* be disturbed](https://www.chronicle.com/article/Can-This-Man-Change-How-Elite/245714/), which is the exact opposite of what they're for!]). This means that I will be ~~in my office~~ at home (wistfully) waiting for you to ~~come by~~ talk to me remotely with whatever questions you have. This is the best and easiest way to find me and the best chance for discussing class material and concerns.
 
-Because of the pandemic, I am not on campus often and generally cannot meet in person. I will generally try to be on campus at least once a week though (typically on Mondays), and I can always meet you online via Webex. [Make an appointment with me here](https://calendly.com/andrewheiss/). You can choose an online or in-person slot—if you choose an online slot, the confirmation e-mail will contain a link for a Webex meeting. You can also find me through e-mail and Slack.
+Because of the pandemic, I am not on campus often and generally cannot meet in person. I will generally try to be on campus at least once a week though (typically on Mondays), and I can always meet you online via Webex. [Make an appointment with me here](https://calendly.com/andrewheiss/). You can choose an online or in-person slot—if you choose an online slot, the confirmation e-mail will contain a link for a Webex meeting. You can also find me through e-mail and Discord.
 
 ### Learning during a pandemic
-
-Life absolutely sucks right now. None of us is really okay. **We're all just pretending.**
-
-You most likely know people who have lost their jobs, have gotten COVID-19, have been hospitalized, or perhaps have even died. You all have increased (or possibly decreased) work responsibilities and increased family care responsibilities—you might be caring for extra people (young and/or old!) right now, and you are likely facing uncertain job prospects (or have been laid off!).
 
 **I'm fully committed to making sure that you learn everything you were hoping to learn from this class!** I will make whatever accommodations I can to help you finish your exercises, do well on your projects, and learn and understand the class material. Under ordinary conditions, I am flexible and lenient with grading and course expectations when students face difficult challenges. Under pandemic conditions, that flexibility and leniency is intensified.
 
@@ -189,7 +192,7 @@ You *never* owe me personal information about your health (mental or physical). 
 
 If you need extra help, or if you need more time with something, or if you feel like you're behind or not understanding everything, **do not suffer in silence!** Talk to me! I will work with you. **I promise.**
 
-*Please* sign up for a time to meet with me during student hours at <https://calendly.com/andrewheiss/>. I'm also available through e-mail and Slack. I've enabled notifications on my Slack account, so I'll see your messages quickly!
+*Please* sign up for a time to meet with me during student hours at <https://calendly.com/andrewheiss/>. I'm also available through e-mail and Discord. I've enabled notifications on my Discord account, so I'll see your messages quickly!
 
 I want you to learn lots of things from this class (Graphic design! Fancy charts! R! ggplot!), but I primarily want you to stay healthy, balanced, and grounded during this crisis. 
 
@@ -199,7 +202,7 @@ My general philosophy towards late work is that I don't care if stuff is late—
 
 While many students have appreciated the flexibility of this system, I've received *a lot* of feedback from students that such a system actually hurts them. With total freedom and no hard deadlines, lots of people put off assignments until the end and then end up not learning much and feel incredibly stressed for weeks and weeks.
 
-So to counter this, I use kinda-sorta-hard-ish deadlines to help you stay on schedule but also provide flexibility when needed.
+So to counter this, **I use kinda-sorta-hard-ish deadlines** to help you stay on schedule but also provide flexibility when needed.
 
 You will lose 0.5 points per day for each day an exercise is late. This is designed to not be a huge penalty (3 days late = 18.5/20 points on an exercise/weekly check-in that gets a ✓), but instead is a commitment device to help you stay on schedule.
 
@@ -287,4 +290,4 @@ grading |>
 
 ## Recipes
 
-Once you have read this entire syllabus and [the assignments page](/assignment/index.qmd), please [click here](mailto:aheiss@gsu.edu) and e-mail me your favorite recipe. I love cooking ([see here for a feed of some of my cooking adventures](https://bsky.app/search?q=from%3Aandrew.heiss.phd+%23pacooks)) and I'm always on the lookout for new things!
+Once you have read this entire syllabus and [the assignments page](/assignment/index.qmd), post your favorite recipe (either a link or the text) to the `#recipes` channel on Discord. I love cooking ([see here for a feed of some of my cooking adventures](https://bsky.app/search?q=from%3Aandrew.heiss.phd+%23pacooks)) and I'm always on the lookout for new things!

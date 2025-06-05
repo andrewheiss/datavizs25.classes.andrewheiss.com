@@ -19,7 +19,7 @@ You'll be doing all your R work in Quarto this time (and from now on). You can d
 
 You don't need to make your plots super fancy, but if you're feeling brave, experiment with adding a `labs()` layer or changing fill colors with `scale_fill_manual()` or with viridis palettes. 
 
-And as always, if you're struggling, *please* talk to me and use Slack and talk to your classmates! Don't suffer in silence!
+And as always, if you're struggling, *please* talk to me and use Discord and talk to your classmates! Don't suffer in silence!
 
 
 ## Instructions

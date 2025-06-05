@@ -71,9 +71,9 @@ website:
         file: resource/index.qmd
       - text: "News"
         file: news/index.qmd
-      - icon: slack
-        href: "https://gsudatavizs25.slack.com"
-        aria-label: Slack
+      - icon: discord
+        href: "https://discord.com/"
+        aria-label: Discord
       - icon: cloud-fill
         href: "https://posit.cloud"
         aria-label: Posit.cloud

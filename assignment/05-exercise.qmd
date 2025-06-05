@@ -17,7 +17,7 @@ You'll be doing all your R work in Quarto. You can download a zipped file of a p
 
 For this assignment, **you're going to forget all the wonderful CRAP design principles you just learned and try your hardest to make the ugliest plot in the world**. Modify the color scale and change theme elements to make this plot truly hideous.
 
-And as always, if you're struggling, *please* talk to me and use Slack and talk to your classmates! Don't suffer in silence!
+And as always, if you're struggling, *please* talk to me and use Discord and talk to your classmates! Don't suffer in silence!
 
 
 ## Instructions

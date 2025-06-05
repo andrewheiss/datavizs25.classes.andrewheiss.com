@@ -19,7 +19,7 @@ You'll be doing all your R work in Quarto. You can download a zipped file of a p
 
 You don't need to make your plots super fancy (except for these annotations), but you should play around with the plots and try to go beyond the basics—experiment with changing colors or modifying themes and theme elements.
 
-And as always, if you're struggling, *please* talk to me and use Slack and talk to your classmates! Don't suffer in silence!
+And as always, if you're struggling, *please* talk to me and use Discord and talk to your classmates! Don't suffer in silence!
 
 
 ## Instructions
