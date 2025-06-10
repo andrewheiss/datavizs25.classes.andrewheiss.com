@@ -67,25 +67,15 @@ To ensure that the analysis and graphics you make are reproducible, you'll do th
 
 Do the following things: 
 
-1. Watch this video. It's all about R Markdown, which is Quarto's predecessor. The same general principles apply.
-
-<div class="ratio ratio-16x9">
-<iframe src="https://player.vimeo.com/video/178485416?color=428bca" frameborder="0"  allow="autoplay; fullscreen" allowfullscreen></iframe>
-</div>
-
-&nbsp;
-
-2. Skim through the content at these pages. Again, lots of these resources mention R Markdown, which is Quarto's predecessor, but the same principles apply to Quarto
+1. Skim through the content at these pages. Again, lots of these resources mention R Markdown, which is Quarto's predecessor, but the same principles apply to Quarto
 
     - [Using Markdown](/resource/markdown.qmd)
     - [Using Quarto](/resource/quarto.qmd)
     - [How it Works](https://rmarkdown.rstudio.com/lesson-2.html)
     - [Code Chunks](https://rmarkdown.rstudio.com/lesson-3.html)
     - [Inline Code](https://rmarkdown.rstudio.com/lesson-4.html)
-    - [Publish and Share with Quarto](https://rstudio.github.io/cheatsheets/html/quarto.html#publish)
-    - [Publish and Share with Quarto cheatsheet](https://rstudio.github.io/cheatsheets/quarto.pdf)
 
-3. Watch this video:
+2. Watch this video:
 
     <div class="ratio ratio-16x9">
     <iframe src="https://www.youtube.com/embed/fT5xI1cmE2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

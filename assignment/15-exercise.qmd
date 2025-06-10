@@ -1,6 +1,6 @@
 ---
 title: "Truth, beauty, and data revisited"
-date: "2025-07-28"
+date: "2025-07-29"
 engine: knitr
 ---
 
