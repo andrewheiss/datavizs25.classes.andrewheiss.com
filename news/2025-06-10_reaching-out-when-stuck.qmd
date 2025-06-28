@@ -175,6 +175,15 @@ If you ask a question and then figure out the answer yourself, **let us know how
 ![[xkcd #979: "Wisdom of the Ancients"](https://xkcd.com/979/)](img/wisdom_of_the_ancients.png)
 
 
+### Discord question etiquette
+
+The `#help-me` channel on Discord is a little different from the other channels. It's more like a forum, where questions have titles and all responses appear in question-specific threads. Try to follow a few general guidelines there:
+
+1. **Use informative titles**: Don't create a post called "Help!" or "Homework question" or "Stuck!" or things like that. Similar to the idea of [high-resolution question asking](#high-resolution-questions), try to make your title more informative, like "Can't change color in plot in exercise 3" or something like that.
+2. **Keep conversations on topic**: You *absolutely should* look at other peoples' questions to see how they're answered—and you can answer and participate in them too! This is another reason for informative titles—it'll be hard for other people to browse through past questions if they're all called "Help!". If you have a different question or topic, make a new post—don't ask it in an unrelated question.
+3. **Close the question if it's been answered**: Similar to the idea of [unanswered questions](#unanswered-questions), if your question has been answered, it's generally good practice to say so in the post. Like, add a comment like "Thanks! That fixed it!" or something—or even add a ✅ emoji reaction. That'll signal to me that I can close the post. The post will still be there in `#help-me`, but it won't be up at the top with active questions.
+
+
 ### Calendly + Webex appointments
 
 You can meet with me for [student hours](/syllabus.qmd#student-hours) by signing up for an appointment [at my Calendly page](https://calendly.com/andrewheiss/). The link is also accessible at the [top of the syllabus page](/syllabus.qmd) and on [the main homepage](/) of the class site.
