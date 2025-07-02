@@ -1,5 +1,72 @@
 # This file is generated with data/extract-news-headings.R; do not edit by hand
 
+- title: "Time to think about mini project 1!"
+  categories:
+  - "course details"
+  date_actual: '1751411400'
+  date: "2025-07-01T23:10:00"
+  href: "/news/2025-07-01_mini-project-1.html"
+  headings: []
+- title: "Make RStudio your own"
+  categories:
+  - "advice"
+  date_actual: '1751381160'
+  date: "2025-07-01T14:46:00"
+  href: "/news/2025-07-01_customize-rstudio.html"
+  headings:
+  - id: "change-the-theme"
+    text: "Change the theme"
+  - id: "dont-save-the-workspace-when-closing"
+    text: "Don’t save the workspace when closing"
+  - id: "turn-on-rainbow-parentheses"
+    text: "Turn on rainbow parentheses"
+  - id: "turn-on-color-previews"
+    text: "Turn on color previews"
+  - id: "turn-on-a-code-margin"
+    text: "Turn on a code margin"
+  - id: "change-the-panel-layout-and-add-more-columns"
+    text: "Change the panel layout and add more columns"
+  - id: "bonus-positron"
+    text: "Bonus: Positron!"
+- title: "Sessions 5 and 6 tips and FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1751376720'
+  date: "2025-07-01T13:32:00"
+  href: "/news/2025-07-01_faqs_weeks-05-06.html"
+  headings:
+  - id: "what-do-quarto-documents-look-like-in-real-life-can-they-be-used-for-real-things-like-reports"
+    text: "What do Quarto documents look like in real life? Can they be used for real
+      things like reports?"
+  - id: "why-should-i-use-ggsave-instead-of-just-rendering-a-quarto-document"
+    text: "Why should I use <code>ggsave()</code> instead of just rendering a Quarto
+      document?"
+  - id: "i-made-a-bunch-of-changes-to-my-plot-with-theme-but-when-i-used-ggsave-none-of-them-actually-saved.-why"
+    text: "I made a bunch of changes to my plot with <code>theme()</code> but when
+      I used <code>ggsave()</code>, none of them actually saved. Why?"
+  - id: "does-the-order-of-theme-things-matter-i-made-changes-with-theme-and-then-wiped-them-out-with-theme_minimal"
+    text: "Does the order of theme things matter? I made changes with <code>theme()</code>
+      and then wiped them out with <code>theme_minimal()</code>?"
+  - id: "if-i-want-to-use-the-same-theme-for-all-the-plots-in-my-document-do-i-need-to-reuse-all-that-code-all-the-time"
+    text: "If I want to use the same theme for all the plots in my document, do I
+      need to reuse all that code all the time?"
+  - id: "why-would-we-want-to-use-rel1.4-instead-of-actual-numbers-when-sizing-things"
+    text: "Why would we want to use <code>rel(1.4)</code> instead of actual numbers
+      when sizing things?"
+  - id: "im-using-macos-and-couldnt-render-as-pdf-when-using-a-custom-fonthow-do-i-fix-that"
+    text: "I’m using macOS and couldn’t render as PDF when using a custom font—how
+      do I fix that?"
+  - id: "in-chapter-22-wilke-talks-about-tablesis-there-a-way-to-make-pretty-tables-with-r"
+    text: "In chapter 22, Wilke talks about tables—is there a way to make pretty tables
+      with R?"
+  - id: "double-encoding-and-excessive-legends"
+    text: "Double encoding and excessive legends"
+  - id: "legends-are-cool-but-ive-read-that-directly-labeling-things-can-be-better.-is-there-a-way-to-label-things-without-a-legend"
+    text: "Legends are cool, but I’ve read that directly labeling things can be better.
+      Is there a way to label things without a legend?"
+  - id: "my-histogram-bars-are-too-wide-too-narrow-not-visible.-how-do-i-fix-that"
+    text: "My histogram bars are too wide / too narrow / not visible. How do I fix
+      that?"
 - title: "Session 4 FAQs"
   categories:
   - "FAQs"
