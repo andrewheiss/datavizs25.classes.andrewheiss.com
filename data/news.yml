@@ -1,5 +1,35 @@
 # This file is generated with data/extract-news-headings.R; do not edit by hand
 
+- title: "Tips for fixing broken code"
+  categories:
+  - "advice"
+  date_actual: '1751458560'
+  date: "2025-07-02T12:16:00"
+  href: "/news/2025-07-02_messy-broken-code-tips.html"
+  headings:
+  - id: "slow-down-simplify-and-do-small-things"
+    text: "Slow down, simplify, and do small things"
+  - id: "reformat-the-code"
+    text: "Reformat the code"
+  - id: "run-the-code-incrementally"
+    text: "Run the code incrementally"
+- title: "A few quick general R tips"
+  categories:
+  - "FAQs"
+  date_actual: '1751454720'
+  date: "2025-07-02T11:12:00"
+  href: "/news/2025-07-02_general-tips.html"
+  headings:
+  - id: "talking-about-packages-and-functions"
+    text: "Talking about packages and functions"
+  - id: "nicer-ggplot2-documentation"
+    text: "Nicer {ggplot2} documentation"
+  - id: "the-tidyverse-package-shortcut"
+    text: "The tidyverse package shortcut"
+  - id: "chunk-labels"
+    text: "Chunk labels"
+  - id: "code-style"
+    text: "Code style"
 - title: "Time to think about mini project 1!"
   categories:
   - "course details"
