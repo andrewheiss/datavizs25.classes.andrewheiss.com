@@ -1,0 +1,72 @@
+---
+title: "Curiosity and bare minimuming"
+date: "2025-07-15T16:09"
+categories: [FAQs]
+toc-depth: 4
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  fig.width = 6,
+  fig.height = 6 * 0.618,
+  fig.align = "center",
+  out.width = "90%",
+  collapse = TRUE
+)
+
+options(
+  digits = 3, width = 120,
+  dplyr.summarise.inform = FALSE
+)
+```
+
+Hi everyone!
+
+Remember that the core philosophy of my approach to teaching this class is to encourage you to be curious. Back in the FAQ post for session 2, [I said this about the ✓ grading system](/news/2025-06-18_faqs_session-02.qmd#why-do-you-use-s-for-grades):
+
+---
+
+There's a scene in season 1 of Ted Lasso where Ted cites a [made-up](https://www.snopes.com/fact-check/be-curious-not-judgmental-walt-whitman/) quote by Walt Whitman ([see timestamp 2:15 here](https://youtu.be/5x0PzUoJS-U?si=YSJvAoKo9UXx96I-&t=135)):
+
+> Be curious, not judgmental.
+
+Despite the fact that Walt Whitman never said this, I really like this sentiment, and I think it 100% applies to learning.
+
+---
+
+Especially now that we're out of the phase of the class with correct answers ([remember this!](/news/2025-07-09_no-more-answer-keys.qmd)), you have a lot of space to be curious. The assignment for session 9 involved making some sort of plot and adding annotations to it. In the assignment for session 11, you'll make some sort of dashboard.
+
+Specifically, in exercise 9, the instructions said to add two each of these annotations to a plot of whatever data you wanted:
+
+  - Text
+  - An arrow
+  - A rectangle
+
+A few semesters ago, I got this for a submission for exercise 9:
+
+```{r}
+#| warning: false
+#| message: false
+
+library(tidyverse)
+
+ggplot() +
+  annotate(geom = "text", x = 1, y = 1, label = "Text") +
+  annotate(geom = "text", x = 2, y = 1, label = "Text") +
+  annotate(geom = "segment", x = 2.75, xend = 3.25, y = 1, yend = 1, arrow = arrow()) +
+  annotate(geom = "segment", x = 3.75, xend = 4.25, y = 1, yend = 1, arrow = arrow()) +
+  annotate(geom = "tile", x = 5, y = 1, width = 0.25, height = 0.25) +
+  annotate(geom = "tile", x = 6, y = 1, width = 0.25, height = 0.25) 
+```
+
+With this as the description:
+
+> Here are two labels, two arrows, and two rectangles. I completed the requirements. This assignment was useless.
+
+And yeah, technically that meets the bare minimum requirements. And they learned a bit about `annotate()`. But I'm really not sure how much learning actually happened.
+
+I received *a lot* of questions from you all last week via Discord and e-mail asking if your labels were right or said the same thing or if you had enough arrowheads or if three arrows could substitute as a label, etc.
+
+Guess what—I don't actually care exactly how many annotations you added! At this point, we're in the curiosity phase of the class. **The whole point of every assignment in this course it to get you to play around with stuff. *That's* where the learning happens—learning happens through play and exploration.**
+
+Please try to not bare minumum your exercises. I encourage you to take the time to *be curious* and play around with these assignments! Don't worry about exact answers!

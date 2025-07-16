@@ -1,5 +1,69 @@
 # This file is generated with data/extract-news-headings.R; do not edit by hand
 
+- title: "Curiosity and bare minimuming"
+  categories:
+  - "FAQs"
+  date_actual: '1752595740'
+  date: "2025-07-15T16:09:00"
+  href: "/news/2025-07-15_be-curious.html"
+  headings: []
+- title: "Two layout-related tips for fancier plots and documents"
+  categories:
+  - "advice"
+  date_actual: '1752590880'
+  date: "2025-07-15T14:48:00"
+  href: "/news/2025-07-15_layout-tips.html"
+  headings:
+  - id: "extra-space-in-patchwork"
+    text: "Extra space in {patchwork}"
+  - id: "use-the-margins"
+    text: "Use the margins"
+- title: "Session 10 tips and FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1752578460'
+  date: "2025-07-15T11:21:00"
+  href: "/news/2025-07-15_faqs_session-10.html"
+  headings:
+  - id: "how-do-i-include-a-separate-image-in-my-document"
+    text: "How do I include a separate image in my document?"
+  - id: "when-should-we-add-annotations-and-text-in-r-vs.-in-a-separate-program"
+    text: "When should we add annotations and text in R vs. in a separate program?"
+  - id: "i-have-numbers-like-20000-and-want-them-formatted-with-commas-like-20000.-can-i-do-that-automatically"
+    text: "I have numbers like 20000 and want them formatted with commas like 20,000.
+      Can I do that automatically?"
+  - id: "how-can-i-get-month-and-weekday-names-or-abbreviations-for-dates"
+    text: "How can I get month and weekday names or abbreviations for dates?"
+  - id: "can-i-get-these-automatic-month-and-day-names-in-non-english-languages"
+    text: "Can I get these automatic month and day names in non-English languages?"
+- title: "Session 9 tips and FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1752572640'
+  date: "2025-07-15T09:44:00"
+  href: "/news/2025-07-15_faqs_session-09.html"
+  headings:
+  - id: "whats-the-difference-between-geom_text-and-annotategeom-text"
+    text: "What’s the difference between <code>geom_text()</code> and <code>annotate(geom
+      = &quot;text&quot;)</code>?"
+  - id: "how-do-i-know-which-aesthetics-geoms-need-to-use"
+    text: "How do I know which aesthetics geoms need to use?"
+  - id: "its-annoying-to-have-to-specify-annotation-positions-using-the-values-of-the-xy-axis-scales.-is-there-a-way-to-say-put-this-in-the-middle-of-the-graph-instead"
+    text: "It’s annoying to have to specify annotation positions using the values
+      of the x/y axis scales. Is there a way to say  instead?"
+  - id: "whats-the-difference-between-geom_text-and-geom_label"
+    text: "What’s the difference between <code>geom_text()</code> and <code>geom_label()</code>?"
+  - id: "what-does-update_geom_defaults-do"
+    text: "What does <code>update_geom_defaults()</code> do?"
+  - id: "how-do-annotations-work-with-facets"
+    text: "How do annotations work with facets?"
+  - id: "the-importance-of-layer-order"
+    text: "The importance of layer order"
+  - id: "i-tried-pivoting-my-data-like-you-did-to-make-my-own-change-in-ranking-data-but-got-a-bunch-of-empty-rowswhy"
+    text: "I tried pivoting my data like you did to make my own change-in-ranking
+      data but got a bunch of empty rows—why?"
+  - id: "seedswhy"
+    text: "Seeds—why?"
 - title: "No more answer keys"
   categories:
   - "course details"
