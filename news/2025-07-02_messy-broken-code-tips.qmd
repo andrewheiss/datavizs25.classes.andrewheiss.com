@@ -116,7 +116,7 @@ Here's my best piece of advice for making more complex plots and for figuring ou
 
 > **Slow down, simplify, and do small things**
 
-Run your code incrementally (see [this post here](/news/2025-02-26_messy-broken-code-tips.qmd) for some video examples about how to run stuff incrementally.). Start with a super basic plot and run it, then add a layer for labels and run it, then add a layer to change the fill gradient and run it, then add a layer to change the theme and run it, and so on. It feels slow, but it helps you understand what's going on and helps you fix things when they break.
+[Run your code incrementally](#run-the-code-incrementally). Start with a super basic plot and run it, then add a layer for labels and run it, then add a layer to change the fill gradient and run it, then add a layer to change the theme and run it, and so on. It feels slow, but it helps you understand what's going on and helps you fix things when they break.
 
 This is not just my advice. [Julia Evans's](https://jvns.ca/) fantastic [*The Pocket Guide to Debugging*](https://wizardzines.com/zines/debugging-guide/) has the same piece of advice:
 
