@@ -1,5 +1,56 @@
 # This file is generated with data/extract-news-headings.R; do not edit by hand
 
+- title: "Session 12 tips and FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1753200300'
+  date: "2025-07-22T16:05:00"
+  href: "/news/2025-07-22_faqs_session-12.html"
+  headings:
+  - id: "why-cant-i-see-the-geometry-column-it-should-be-there"
+    text: "Why can’t I see the geometry column? It should be there?"
+  - id: "can-we-make-interactive-maps-with-r"
+    text: "Can we make interactive maps with R?"
+  - id: "why-do-we-use-an-empty-ggplot-call-for-these-functions"
+    text: "Why do we use an empty <code>ggplot()</code> call for these functions?"
+  - id: "whats-the-difference-between-a-tibble-and-a-tribble"
+    text: "What’s the difference between a tibble and a tribble?"
+  - id: "how-many-decimal-points-should-i-use-when-im-working-with-latitude-and-longitude"
+    text: "How many decimal points should I use when I’m working with latitude and
+      longitude?"
+  - id: "can-i-use-geom_label_repel-with-maps"
+    text: "Can I use <code>geom_label_repel()</code> with maps?"
+  - id: "can-i-use-a-heatmap-on-a-map"
+    text: "Can I use a heatmap on a map?"
+  - id: "i-tried-to-make-a-map-and-countries-are-missingwhy"
+    text: "I tried to make a map and countries are missing—why?"
+  - id: "i-tried-to-make-a-map-of-just-europe-and-it-includes-more-than-just-europe"
+    text: "I tried to make a map of just Europe and it includes more than just Europe?"
+  - id: "saving-data-that-takes-a-long-time-to-make"
+    text: "Saving data that takes a long time to make"
+- title: "Session 11 tips and FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1753186620'
+  date: "2025-07-22T12:17:00"
+  href: "/news/2025-07-22_faqs_session-11.html"
+  headings:
+  - id: "do-people-use-plotly-and-quarto-dashboards-in-the-real-world"
+    text: "Do people use Plotly and Quarto dashboards in the real world?"
+  - id: "my-plot-didnt-translate-perfectly-to-ggplotlywhy"
+    text: "My plot didn’t translate perfectly to ggplotly—why?"
+  - id: "i-tried-to-render-a-dashboard-but-it-appeared-as-a-regular-html-filewhy"
+    text: "I tried to render a dashboard but it appeared as a regular HTML file—why?"
+  - id: "when-should-we-use-a-dashboard-vs.-a-full-shiny-app"
+    text: "When should we use a dashboard vs. a full Shiny app?"
+  - id: "i-rendered-my-file-dashboard-but-it-didnt-appear-in-the-viewer-panelwhy-not"
+    text: "I rendered my file / dashboard but it didn’t appear in the Viewer panel—why
+      not?"
+  - id: "do-people-use-viridis-palettes-in-real-life"
+    text: "Do people use viridis palettes in real life?"
+  - id: "im-bored-with-ggplots-default-colors-andor-viridishow-can-i-use-other-color-palettes"
+    text: "I’m bored with ggplot’s default colors and/or viridis—how can I use other
+      color palettes?"
 - title: "Curiosity and bare minimuming"
   categories:
   - "FAQs"
