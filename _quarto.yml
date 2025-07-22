@@ -29,6 +29,8 @@ website:
   description: "Use R, ggplot2, and the principles of graphic design to create beautiful and truthful visualizations of data"
   site-url: "https://datavizs25.classes.andrewheiss.com"
 
+  draft-mode: unlinked
+
   # announcement:
   #   icon: calendar-check
   #   dismissable: true
@@ -299,3 +301,6 @@ format:
       - html/custom.scss
     toc: true
     highlight-style: monokai
+
+language: 
+  draft: "This is a draft—the full FAQ post isn't finished yet."
