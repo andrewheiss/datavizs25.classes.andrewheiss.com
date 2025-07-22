@@ -63,6 +63,11 @@ extract_details <- function(post_path) {
   # Get YAML frontmatter
   metadata <- rmarkdown::yaml_front_matter(post_path)
 
+  # If this is a draft, don't process it
+  if (!is.null(metadata$draft) && metadata$draft) {
+    return(NULL)
+  }
+
   # Deal with the title
   title <- metadata$title |> structure(quoted = TRUE)
 
@@ -147,7 +152,9 @@ posts <- fs::dir_ls(here::here("news"), regexp = "\\.qmd$") |>
   purrr::discard(\(x) x == here::here("news/index.qmd"))
 
 # Extract the details from each .qmd file
-posts_details <- purrr::map(posts, extract_details) |> unname()
+posts_details <- purrr::map(posts, extract_details) |> 
+  unname() |> 
+  purrr::discard(\(x) is.null(x))  # Remove drafts
 
 # Sort the posts by date
 posts_details <- posts_details[
