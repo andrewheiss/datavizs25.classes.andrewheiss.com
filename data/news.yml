@@ -1,5 +1,49 @@
 # This file is generated with data/extract-news-headings.R; do not edit by hand
 
+- title: "What's next?"
+  categories:
+  - "advice"
+  date_actual: '1753808280'
+  date: "2025-07-29T16:58:00"
+  href: "/news/2025-07-29_whats-next.html"
+  headings:
+  - id: "policy-analytics-concentration-and-certificate"
+    text: "Policy analytics concentration and certificate"
+  - id: "program-evaluation"
+    text: "Program Evaluation"
+  - id: "comparative-public-administration"
+    text: "Comparative Public Administration"
+- title: "Class website future"
+  categories:
+  - "course details"
+  date_actual: '1753808220'
+  date: "2025-07-29T16:57:00"
+  href: "/news/2025-07-29_website-future.html"
+  headings: []
+- title: "Sessions 13 and 14 tips and FAQs"
+  categories:
+  - "FAQs"
+  date_actual: '1753808040'
+  date: "2025-07-29T16:54:00"
+  href: "/news/2025-07-29_faqs_sessions-13-14.html"
+  headings:
+  - id: "why-doesnt-gapminder-data-appear-in-the-environment-panel-is-there-a-way-to-see-which-packages-have-which-data"
+    text: "Why doesn’t gapminder data appear in the environment panel? Is there a
+      way to see which packages have which data?"
+  - id: "some-of-the-words-in-my-word-frequencytf-idf-plot-were-out-of-orderhow-can-i-fix-that"
+    text: "Some of the words in my word frequency/tf-idf plot were out of order—how
+      can I fix that?"
+  - id: "cleaning-up-text-is-always-specific-and-specialized"
+    text: "Cleaning up text is <em>always</em> specific and specialized"
+  - id: "i-tried-filtering-out-words-like-im-and-they-didnt-filterwhy-not"
+    text: "I tried filtering out words like <code>i'm</code> and they didn’t filter—why
+      not?"
+  - id: "i-tried-filtering-out-blank-words-with-drop_na-and-it-didnt-workwhy-not"
+    text: "I tried filtering out blank words with <code>drop_na()</code> and it didn’t
+      work—why not?"
+  - id: "sometimes-the-colors-in-the-viridis-palettes-are-too-dark-neon-pale-or-lightcan-i-adjust-those"
+    text: "Sometimes the colors in the viridis palettes are too dark, neon, pale,
+      or light—can I adjust those?"
 - title: "Session 12 tips and FAQs"
   categories:
   - "FAQs"
